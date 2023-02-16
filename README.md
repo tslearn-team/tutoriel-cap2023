@@ -58,7 +58,7 @@ Troisième mail :
 * Partie `tslearn`
   * Mesures de similarité entre séries temporelles
   * Application au learning
-  * Possibilité de se baser sur le [cours à l'ENSAI de RT](https://rtavenar.github.io/ml4ts_ensai/) pour DTW + softDTW + kmeans-DTW + SVM-GAK + Structured prediction avec loss softDTW
+  * Possibilité de se baser sur le [cours à l'ENSAI de RT](https://rtavenar.github.io/ml4ts_ensai/) et les [posts de blog](https://rtavenar.github.io/blog/) pour DTW + softDTW + kmeans-DTW + SVM-GAK + Structured prediction avec loss softDTW
     * un vrai + serait que le backend pytorch pour tslearn soit dispo d'ici là et qu'on puisse importer la softDTW comme une loss pytorch depuis tslearn
 
 ## Formulaire à remplir
