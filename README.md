@@ -75,4 +75,11 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
   * Expérience dans le domaine du tutoriel, y compris une liste de publications/présentations
   * Citation d’un exemple de travail disponible dans le domaine (idéalement, un article publié ou des documents de présentation sur le sujet)
   * Éléments d’expérience d’enseignement (cours enseignés ou références)
+  > Romain Tavenard (Université de Rennes 2 - +33 2 99 14 18 04 - romain.tavenard@univ-rennes2.fr)
+  > 
+  > Créateur de la librairie `tslearn` d'apprentissage à partir de données temporelles (3M+ téléchargements, 2k+ stars sur GitHub), mes travaux de recherche se focalisent sur l'apprentissage pour les données temporelles ([lien vers mon profil Google Scholar](https://scholar.google.com/citations?user=wn1XFWMAAAAJ&hl=fr)).
+  > La librairie `tslearn` est décrite dans l'article [1] publié dans JMLR.
+  > J'enseigne la programmation en Python, l'apprentissage profond, ainsi que l'apprentissage à partir de données temporelles, à l'Université de Rennes 2 et à l'ENSAI ([lien vers les notes du cours d'apprentissage sur données temporelles à l'ENSAI](https://rtavenar.github.io/ml4ts_ensai/))
+  > 
+  > [1] Tslearn, a machine learning toolkit for time series data. R. Tavenard, J. Faouzi et al. The Journal of Machine Learning Research, 2020
 
