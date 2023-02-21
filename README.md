@@ -86,9 +86,11 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
 
   > Johann Faouzi (Enseignant-chercheur - École Nationale de la Statistique et de l'Analyse de l'Information - +33 6 76 17 92 71 - johann.faouzi@ensai.fr)
   >
-  > Créateur du paquet Python `pyts` dédiée à la classification de séries temporelles (près de 2m de téléchargements, 1.4+ stars sur GitHub), une partie de mes travaux de recherche se focalisent sur l'apprentissage automatique pour les données temporelles. Un article [2] décrivant `pyts` a été publié dans JMLR en 2020. J'ai également contribué à la librairie `tslearn` [2]. Une revue de littérature sur les algorithmes et les librairies pour la classification de séries temporelles [3] a également été acceptée comme chapitre de livre.
+  > Créateur du paquet Python `pyts` dédiée à la classification de séries temporelles (près de 2m de téléchargements, 1.4+ stars sur GitHub), une partie de mes travaux de recherche se focalisent sur l'apprentissage automatique pour les données temporelles. Un article [1] décrivant `pyts` a été publié dans JMLR en 2020. J'ai également contribué à la librairie `tslearn` [2]. Une revue de littérature sur les algorithmes et les librairies pour la classification de séries temporelles [3] a également été acceptée comme chapitre de livre.
   > J'enseigne la programmation en Python, la programmation orientée objet et la documentation du code, et je suis responsable du projet "Traitement de données" à l'ENSAI.
-
+  >
   > [1] J. Faouzi and H. Janati. pyts: A Python Package for Time Series Classification. Journal of Machine Learning Research, 21(46):1−6, 2020.
+  >
   > [2] Tslearn, a machine learning toolkit for time series data. R. Tavenard, J. Faouzi et al. The Journal of Machine Learning Research, 2020.
+  >
   > [3] J. Faouzi. Time Series Classification: A review of Algorithms and Implementations. To appear in: Ketan Kotecha (Ed.), Machine Learning (Emerging Trends and Applications), ISBN 978-1-8381524-1-3, 2023.
