@@ -66,7 +66,11 @@ Troisième mail :
 Les propositions doivent être soumises dans un seul fichier PDF contenant les informations suivantes :
 
 * Une description du tutoriel en deux phrases, à inclure dans la brochure d’inscription à la conférence.
+  > Ce tutoriel se concentre sur l'utilisation des packages tslearn et pyts pour effectuer des analyses de jeux de données temporels. Les participants apprendront à manipuler et à préparer des données temporelles pour l'apprentissage automatique, ainsi qu'à mettre en œuvre des modèles de séries temporelles à l'aide de ces deux packages.
 * Une description du tutoriel en deux paragraphes, pouvant être incluse dans la brochure d’inscription à la conférence.
+  > Ce tutoriel de Python, machine learning et séries temporelles sera présenté en deux parties. Dans la première partie, les créateurs des packages tslearn et pyts expliqueront les principales méthodes utilisées pour l'analyse et la prédiction à partir de données temporelles. Les participants pourront ainsi acquérir une compréhension théorique approfondie des outils et techniques qui leur seront présentés.
+  > 
+  > Dans la deuxième partie du tutoriel, les participants mettront en pratique les enseignements de la première partie. Les créateurs des packages tslearn et pyts guideront les participants dans la manipulation et la préparation de données temporelles pour l'apprentissage automatique, ainsi que dans l'implémentation de modèles de séries temporelles à l'aide de ces deux packages. Les participants pourront ainsi appliquer concrètement les connaissances acquises dans la première partie.
 * Un déroulé détaillé du tutoriel sous forme de points
 * Une brève caractérisation du public cible potentiel du tutoriel, y compris les connaissances pré-requises
 * Une brève description des raisons pour lesquelles le sujet du tutoriel intéresserait une partie importante du public de PFIA, et quels sont, parmi les objectifs ci-dessus, ceux qui sont le mieux servis par le tutoriel.
