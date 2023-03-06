@@ -67,14 +67,41 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
 
 * Une description du tutoriel en deux phrases, à inclure dans la brochure d’inscription à la conférence.
   > Ce tutoriel se concentre sur l'utilisation des packages tslearn et pyts pour effectuer des analyses de jeux de données temporels. Les participants apprendront à manipuler et à préparer des données temporelles pour l'apprentissage automatique, ainsi qu'à mettre en œuvre des modèles de séries temporelles à l'aide de ces deux packages.
+
 * Une description du tutoriel en deux paragraphes, pouvant être incluse dans la brochure d’inscription à la conférence.
   > Ce tutoriel de Python, machine learning et séries temporelles sera présenté en deux parties. Dans la première partie, les créateurs des packages tslearn et pyts expliqueront les principales méthodes utilisées pour l'analyse et la prédiction à partir de données temporelles. Les participants pourront ainsi acquérir une compréhension théorique approfondie des outils et techniques qui leur seront présentés.
-  > 
+  >
   > Dans la deuxième partie du tutoriel, les participants mettront en pratique les enseignements de la première partie. Les créateurs des packages tslearn et pyts guideront les participants dans la manipulation et la préparation de données temporelles pour l'apprentissage automatique, ainsi que dans l'implémentation de modèles de séries temporelles à l'aide de ces deux packages. Les participants pourront ainsi appliquer concrètement les connaissances acquises dans la première partie.
+
 * Un déroulé détaillé du tutoriel sous forme de points
+  >
+  * **Première partie : présentation des concepts**
+    + Mesures de similarités
+      - TODO
+      - TODO
+    + Représentation par sac de mots
+      * Justification de l'approche
+      * Représentation d'une (sous-)série temporelle par un mot
+        - Domaine temporel : Symbolic aggregate approximation
+        - Domaine fréquentiel : Symbolic Fourier approximation
+      * Représentation d'une série temporelle par un sac de mots et application à la classification
+        - Domaine temporel : bag of patterns, symbolic aggregate approximation in vector space model
+        - Domaine fréquentiel : Bag of symbolic Fourier approximation symbols, word extraction for time series classification
+  * **Deuxième partie : travaux pratiques**
+    + Mesures de similarités
+      - TODO
+      - TODO
+    + Classification de séries temporelles par des approches "sac de mots"
+      - Comparaison des différentes représentations pour une (sous-)série temporelle
+      - Étude de l'impact de certains hyper-paramètres sur les sacs de mots obtenus
+      - Classification de séries temporelles par un algorithme classique de classification à partir des sacs de mots.
+
 * Une brève caractérisation du public cible potentiel du tutoriel, y compris les connaissances pré-requises
   > Le public cible potentiel de ce tutoriel serait principalement composé de développeurs, de data scientists, d'ingénieurs et d'étudiants intéressés par l'apprentissage automatique et l'analyse de données temporelles. Les participants devraient avoir une compréhension de base de Python et de l'apprentissage automatique, ainsi qu'une familiarité avec les concepts de base des séries temporelles. Les connaissances pré-requises comprennent notamment la manipulation de données en Python, la modélisation de données et l'utilisation d'algorithmes de machine learning de base.
+
 * Une brève description des raisons pour lesquelles le sujet du tutoriel intéresserait une partie importante du public de PFIA, et quels sont, parmi les objectifs ci-dessus, ceux qui sont le mieux servis par le tutoriel.
+  > Du fait de la plus grande disponibilité de capteurs et de l'augmentation de la collecte de données, les séries temporelles sont de plus en plus présentes dans de nombreux domaines : (cyber)sécurité, maintenance, médecine, environnement, climat, etc. L'analyse de telles données complexes nécessite des algorithmes spécifiques tenant compte de la structure de ces données. Une majeure partie du public de PFIA rencontre probablement régulièrement des séries temporelles dans leurs projets, et ce tutoriel permettra de lui présenter certaines approches pour leur analyse. Plus précisément, le tutoriel se focalisera sur deux approches. Les mesures de similarité entre séries temporelles, ainsi que leurs applications en apprentissage automatique, seront présentées. La représentation par sac de mots pour les séries temporelles, avec comme application la classification de séries temporelles, sera également présentée.
+
 * Un bref résumé du/des orateur(s), qui doit inclure :
   * Nom, affiliation, numéro de téléphone, adresse électronique
   * Expérience dans le domaine du tutoriel, y compris une liste de publications/présentations
