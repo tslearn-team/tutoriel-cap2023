@@ -122,7 +122,7 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
   > J'enseigne la programmation en Python, la programmation orientée objet et la documentation du code, et je suis responsable du projet "Traitement de données" à l'ENSAI.
 
   
-  > Yann Cabanes (Ingénieur de recherche à l'Université de Rennes 2 - +33 6 85 90 95 24 - yann.cabanes@gmail.com)
+  > Yann Cabanes (Post-doctorant à l'Université de Carleton à Ottawa (Canada) et Ingénieur de recherche à mi-temps à l'Université de Rennes 2 - +33 6 85 90 95 24 - yann.cabanes@gmail.com)
   
   > Ma mission en tant qu'ingénieur de recherche à l'Université de Rennes 2 est de maintenir la librairie tslearn [1] créée par Romain Tavenard.
   > Je travaille notamment à l'intégration du backend PyTorch à la librairie tslearn.
