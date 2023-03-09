@@ -57,7 +57,7 @@ Troisième mail :
 
 * Partie `tslearn`
   * Mesures de similarité entre séries temporelles
-  * Application au learning
+  * Application à l'apprentissage de séries temporelles. Par exemple de la classification de données audio ?
   * Possibilité de se baser sur le [cours à l'ENSAI de RT](https://rtavenar.github.io/ml4ts_ensai/) et les [posts de blog](https://rtavenar.github.io/blog/) pour DTW + softDTW + kmeans-DTW + SVM-GAK + Structured prediction avec loss softDTW
     * un vrai + serait que le backend pytorch pour tslearn soit dispo d'ici là et qu'on puisse importer la softDTW comme une loss pytorch depuis tslearn
 
@@ -89,8 +89,8 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
         - Domaine fréquentiel : Bag of symbolic Fourier approximation symbols, word extraction for time series classification
   * **Deuxième partie : travaux pratiques**
     + Mesures de similarités
-      - TODO
-      - TODO
+      - possibilité : classification de séries temporelles audio (feux de bois, cascades, vents).
+      - possibilité : si le backend PyTorch est intégré, faire des prévision avec softDTW comme fonction de perte (loss function).
     + Classification de séries temporelles par des approches "sac de mots"
       - Comparaison des différentes représentations pour une (sous-)série temporelle
       - Étude de l'impact de certains hyper-paramètres sur les sacs de mots obtenus
@@ -114,15 +114,26 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
   > La librairie `tslearn` est décrite dans l'article [1] publié dans JMLR.
   > J'enseigne la programmation en Python, l'apprentissage profond, ainsi que l'apprentissage à partir de données temporelles, à l'Université de Rennes 2 et à l'ENSAI ([lien vers les notes du cours d'apprentissage sur données temporelles à l'ENSAI](https://rtavenar.github.io/ml4ts_ensai/))
   >
-  > [1] Tslearn, a machine learning toolkit for time series data. R. Tavenard, J. Faouzi et al. The Journal of Machine Learning Research, 2020
+  > [1] R. Tavenard, J. Faouzi et al. Tslearn, a machine learning toolkit for time series data. The Journal of Machine Learning Research, 2020
 
   > Johann Faouzi (Enseignant-chercheur - École Nationale de la Statistique et de l'Analyse de l'Information - +33 6 76 17 92 71 - johann.faouzi@ensai.fr)
   >
-  > Créateur du paquet Python `pyts` dédiée à la classification de séries temporelles (près de 2m de téléchargements, 1.4+ stars sur GitHub), une partie de mes travaux de recherche se focalisent sur l'apprentissage automatique pour les données temporelles. Un article [1] décrivant `pyts` a été publié dans JMLR en 2020. J'ai également contribué à la librairie `tslearn` [2]. Une revue de littérature sur les algorithmes et les librairies pour la classification de séries temporelles [3] a également été acceptée comme chapitre de livre.
+  > Créateur du paquet Python `pyts` dédiée à la classification de séries temporelles (près de 2m de téléchargements, 1.4+ stars sur GitHub), une partie de mes travaux de recherche se focalisent sur l'apprentissage automatique pour les données temporelles. Un article [2] décrivant `pyts` a été publié dans JMLR en 2020. J'ai également contribué à la librairie `tslearn` [1]. Une revue de littérature sur les algorithmes et les librairies pour la classification de séries temporelles [3] a également été acceptée comme chapitre de livre.
   > J'enseigne la programmation en Python, la programmation orientée objet et la documentation du code, et je suis responsable du projet "Traitement de données" à l'ENSAI.
+
+  
+  > Yann Cabanes (Ingénieur de recherche à l'Université de Rennes 2 - +33 6 85 90 95 24 - yann.cabanes@gmail.com)
+  
+  > Ma mission en tant qu'ingénieur de recherche à l'Université de Rennes 2 est de maintenir la librairie tslearn [1] créée par Romain Tavenard.
+  > Je travaille notamment à l'intégration du backend PyTorch à la librairie tslearn.
+  > J'ai réalisé une thèse de mathématiques appliquées à l'Institut de mathématiques de Bordeaux durant laquelle j'ai donné 128 heures de cours en Licence 1 et Licence 2 à l'Université de Bordeaux. J'ai ensuite réalisé un premier ATER de 6 mois à l'Université de Bordeaux durant lequel j'ai eu l'occasion d'encadrer des travaux pratiques en python sur des thèmes de statistiques, puis j'ai effectué un second ATER à l'IUT de Bordeaux. 
+  > Pour plus de détails sur mes activités, voici un ([lien vers ma page personnelle](https://ycabanes.perso.math.cnrs.fr/)) 
+  
+  
+  > Références
   >
-  > [1] J. Faouzi and H. Janati. pyts: A Python Package for Time Series Classification. Journal of Machine Learning Research, 21(46):1−6, 2020.
+  > [1] R. Tavenard, J. Faouzi et al. Tslearn, a machine learning toolkit for time series data. The Journal of Machine Learning Research, 2020.
   >
-  > [2] Tslearn, a machine learning toolkit for time series data. R. Tavenard, J. Faouzi et al. The Journal of Machine Learning Research, 2020.
+  > [2] J. Faouzi and H. Janati. pyts: A Python Package for Time Series Classification. Journal of Machine Learning Research, 21(46):1−6, 2020.
   >
   > [3] J. Faouzi. Time Series Classification: A review of Algorithms and Implementations. To appear in: Ketan Kotecha (Ed.), Machine Learning (Emerging Trends and Applications), ISBN 978-1-8381524-1-3, 2023.
