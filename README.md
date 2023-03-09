@@ -126,8 +126,8 @@ Les propositions doivent être soumises dans un seul fichier PDF contenant les i
   
   > Ma mission en tant qu'ingénieur de recherche à l'Université de Rennes 2 est de maintenir la librairie tslearn [1] créée par Romain Tavenard.
   > Je travaille notamment à l'intégration du backend PyTorch à la librairie tslearn.
-  > J'ai réalisé une thèse de mathématiques appliquées à l'Institut de mathématiques de Bordeaux durant laquelle j'ai donné 128 heures de cours en Licence 1 et Licence 2 à l'Université de Bordeaux. J'ai ensuite réalisé un premier ATER de 6 mois à l'Université de Bordeaux durant lequel j'ai eu l'occasion d'encadrer des travaux pratiques en python sur des thèmes de statistiques, puis j'ai effectué un second ATER à l'IUT de Bordeaux. 
-  > Pour plus de détails sur mes activités, voici un ([lien vers ma page personnelle](https://ycabanes.perso.math.cnrs.fr/)) 
+  > J'ai réalisé une thèse de mathématiques appliquées à l'Institut de mathématiques de Bordeaux durant laquelle j'ai donné 128 heures de cours en Licence 1 et Licence 2 à l'Université de Bordeaux. J'ai ensuite réalisé un premier ATER de 6 mois à l'Université de Bordeaux durant lequel j'ai eu l'occasion d'encadrer des travaux pratiques en Python sur des thèmes de statistiques, puis j'ai effectué un second ATER à l'IUT de Bordeaux. 
+  > Pour plus de détails sur mes activités, voici un [lien vers ma page personnelle](https://ycabanes.perso.math.cnrs.fr/).
   
   
   > Références
