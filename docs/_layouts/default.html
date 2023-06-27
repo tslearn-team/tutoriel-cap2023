@@ -18,18 +18,18 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <!-- {%- assign sorted_pages = site.pages | sort: "title" -%}
+      {%- assign sorted_pages = site.pages | sort: "title" -%}
       {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
       {%- for page in sorted_pages -%}
           {% assign ext = page.url | split:'.' | last %}
           {% if ext != "css" %}
             <a href="{{ page.url | absolute_url }}" class="btn">{{ page.title }}</a>
           {% endif %}
-      {% endfor %} -->
+      {% endfor %}
     </header>
 
     <main id="content" class="main-content" role="main">
-      <h1>{{ page.title }}</h1>
+      <!-- <h1>{{ page.title }}</h1> -->
       
       {{ content }}
     </main>
