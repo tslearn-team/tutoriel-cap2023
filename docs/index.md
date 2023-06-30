@@ -4,10 +4,6 @@
 * Quand ? mardi 4 juillet 2023, 9h-12h
 * Où ? Dans le cadre de la conférence CAp, Université de Strasbourg (campus Centre), salle 32-06
 
-## Public cible du tutoriel
-
-Le public cible de ce tutoriel est principalement composé de développeurs, de data scientists, d'ingénieurs et d'étudiants intéressés par l'apprentissage automatique et l'analyse de données temporelles. Les participants doivent avoir une compréhension de base de Python et de l'apprentissage automatique, ainsi qu'une familiarité avec les concepts de base des séries temporelles. Les connaissances pré-requises comprennent notamment la manipulation de données en Python, la modélisation de données et l'utilisation d'algorithmes de machine learning de base.
-
 ## Orateurs
 
 ### Yann Cabanes (Post-doctorant à l'Université de Carleton à Ottawa (Canada) et Ingénieur de recherche à mi-temps à l'Université de Rennes 2)
