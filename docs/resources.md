@@ -6,7 +6,7 @@
 
 ## Notebooks utilisés
 
-* [Partie "tslearn" : métriques de comparaison de séries temporelles](dtw.ipynb) 
+* [Partie "tslearn" : métriques de comparaison de séries temporelles](assets/dtw.ipynb) 
     * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/assets/dtw.ipynb)
 
 <!-- * [Partie "tslearn" : métriques de comparaison de séries temporelles (Corrigé)](dtw_solution.ipynb) 
