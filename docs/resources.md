@@ -12,7 +12,7 @@
 <!-- * [Partie "tslearn" : métriques de comparaison de séries temporelles (Corrigé)](dtw_solution.ipynb) 
     * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/assets/dtw_solution.ipynb) -->
 * [Partie "pyts" : représentation par sacs de mots et classification](bag_of_words.ipynb)
-    * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/assets/bag_of_words.ipynb)
+    * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/bag_of_words.ipynb)
 
 ## Diaporamas projetés
 
