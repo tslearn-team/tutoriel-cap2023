@@ -16,6 +16,6 @@
 
 ## Diaporamas projetés
 
-* [Introduction](intro.pdf)
-* [Partie "tslearn" : métriques de comparaison de séries temporelles](dtw.pdf)
+* [Introduction](assets/intro.pdf)
+* [Partie "tslearn" : métriques de comparaison de séries temporelles](assets/dtw.pdf)
 * [Partie "pyts" : représentation par sacs de mots et classification](bag_of_words.pdf)
