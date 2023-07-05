@@ -11,9 +11,9 @@
 * [Partie "tslearn" : métriques de comparaison de séries temporelles (Corrigé)](assets/dtw_solution.ipynb) 
     * [Ouvrir le notebook dans Google Colab (Corrigé)](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/assets/dtw_solution.ipynb)
 * [Partie "pyts" : représentation par sacs de mots et classification](assets/bag_of_words.ipynb)
-    * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/bag_of_words.ipynb)
+    * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/assets/bag_of_words.ipynb)
 * [Partie "pyts" : représentation par sacs de mots et classification (Corrigé)](assets/bag_of_words_solution.ipynb)
-    * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/bag_of_words_solution.ipynb)
+    * [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/tslearn-team/tutoriel-cap2023/blob/main/docs/assets/bag_of_words_solution.ipynb)
 
 ## Diaporamas projetés
 
